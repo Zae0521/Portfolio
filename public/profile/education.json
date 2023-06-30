@@ -1,19 +1,19 @@
 {
     "education":[
         {
-            "title": "Jun 20XX - Jun 20YY",
-            "cardTitle": "B.Tech, Computer Science",
-            "cardSubtitle":"XYZ University, City",
-            "cardDetailedText": "CGPA - 9.5",
+            "title": "Aug 2016 - May 2019",
+            "cardTitle": "Bachelor's of Applied Sciences, Focus in Programming",
+            "cardSubtitle":"Spartanburg Community College; Spartanburg, SC",
+            "cardDetailedText": "Placeholder",
             "icon" : {
-                "src": "images/education/lorem-ipsum.png"
+                "src": "https://www.sccsc.edu/_resources/images/scc-logo-footer.png"
             }
         },
         {
-            "title": "Apr 20XX",
+            "title": "Graduated May 2017",
             "cardTitle": "High School",
-            "cardSubtitle":"ABC School, City",
-            "cardDetailedText": "Marks - 95%"
+            "cardSubtitle":"Gaffney High School; Gaffney, SC",
+            "cardDetailedText": "Placeholder"
         }
     ]
 }
