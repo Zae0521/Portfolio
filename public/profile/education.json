@@ -1,12 +1,21 @@
 {
     "education":[
+          {
+            "title": "Aug 2016 - May 2019",
+            "cardTitle": "Bachelor of Sciences, Focus in Programming",
+            "cardSubtitle":"Limestone University; Gaffney, SC",
+            "cardDetailedText": "Placeholder",
+            "icon" : {
+                "src": "https://www.limestone.edu/themes/custom/lime_zurb/logo.svg"
+            }
+        },
         {
             "title": "Aug 2016 - May 2019",
-            "cardTitle": "Bachelor's of Applied Sciences, Focus in Programming",
+            "cardTitle": "Associate of Applied Sciences, Focus in Programming",
             "cardSubtitle":"Spartanburg Community College; Spartanburg, SC",
             "cardDetailedText": "Placeholder",
             "icon" : {
-                "src": "https://www.sccsc.edu/_resources/images/scc-logo-footer.png"
+                "src": "https://www.sccsc.edu/_resources/images/scc-logo.png"
             }
         },
         {
