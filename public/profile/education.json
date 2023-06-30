@@ -1,7 +1,16 @@
 {
     "education":[
+        {
+            "title": "May 2023 - Current",
+            "cardTitle": "Master of Information Technology, Focus in Software Engineering",
+            "cardSubtitle":"Middle Georgia State University; Macon, Ga",
+            "cardDetailedText": "Placeholder",
+            "icon" : {
+                "src": "https://www.limestone.edu/themes/custom/lime_zurb/logo.svg"
+            }
+        },
           {
-            "title": "Aug 2016 - May 2019",
+            "title": "Aug 2020 - Dec 2022",
             "cardTitle": "Bachelor of Sciences, Focus in Programming",
             "cardSubtitle":"Limestone University; Gaffney, SC",
             "cardDetailedText": "Placeholder",
