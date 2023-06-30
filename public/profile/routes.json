@@ -8,22 +8,22 @@
         {
             "component": "Skills",
             "path": "/skills",
-            "headerTitle": "Skills"
+            "headerTitle": "My Skills"
         },
         {
             "component": "Education",
             "path": "/education",
-            "headerTitle": "Education"
+            "headerTitle": "My Education"
         },
         {
             "component": "Experience",
             "path": "/experience",
-            "headerTitle": "Experience"
+            "headerTitle": "My Experience"
         },
         {
             "component": "Projects",
             "path": "/projects",
-            "headerTitle": "Projects"
+            "headerTitle": "My Projects"
         }
     ]
 }
